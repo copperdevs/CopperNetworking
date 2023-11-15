@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Facepunch.Steamworks/2.3.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Facepunch.Steamworks.Win64.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Facepunch.Steamworks.Win64.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CopperNetworking.Backend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CopperNetworking.Backend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopperNetworking.Backend.dll": {}
+        }
+      },
+      "CopperNetworking.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CopperNetworking.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopperNetworking.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facepunch.Steamworks/2.3.3": {
+      "sha512": "7nUjWX/uy6JbDX7Q3n8ij7vrpWjTM0S8hXO24R3ZwQ0QgY0sXVlxzh3unmYoLvKGi31rzDHqGX68I169hnHNxQ==",
+      "type": "package",
+      "path": "facepunch.steamworks/2.3.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Facepunch.Steamworks.jpg",
+        "content/steam_api64.dll",
+        "facepunch.steamworks.2.3.3.nupkg.sha512",
+        "facepunch.steamworks.nuspec",
+        "lib/net46/Facepunch.Steamworks.Win64.dll",
+        "lib/net46/Facepunch.Steamworks.Win64.xml",
+        "lib/netstandard2.0/Facepunch.Steamworks.Win64.dll",
+        "lib/netstandard2.0/Facepunch.Steamworks.Win64.xml"
+      ]
+    },
+    "CopperNetworking.Backend/1.0.0": {
+      "type": "project",
+      "path": "../CopperNetworking.Backend/CopperNetworking.Backend.csproj",
+      "msbuildProject": "../CopperNetworking.Backend/CopperNetworking.Backend.csproj"
+    },
+    "CopperNetworking.Common/1.0.0": {
+      "type": "project",
+      "path": "../CopperNetworking.Common/CopperNetworking.Common.csproj",
+      "msbuildProject": "../CopperNetworking.Common/CopperNetworking.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CopperNetworking.Backend >= 1.0.0",
+      "Facepunch.Steamworks >= 2.3.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\715263\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Steamworks\\CopperNetworking.Backend.Steamworks.csproj",
+      "projectName": "CopperNetworking.Backend.Steamworks",
+      "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Steamworks\\CopperNetworking.Backend.Steamworks.csproj",
+      "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Steamworks\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj": {
+              "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Facepunch.Steamworks": {
+            "target": "Package",
+            "version": "[2.3.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\bin\Debug\net7.0\CopperChat.Common.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\bin\Debug\net7.0\CopperChat.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\bin\Debug\net7.0\CopperChat.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.csproj.AssemblyReference.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.AssemblyInfoInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.AssemblyInfo.cs
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.csproj.CoreCompileInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\refint\CopperChat.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\CopperChat.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperChat.Common\obj\Debug\net7.0\ref\CopperChat.Common.dll

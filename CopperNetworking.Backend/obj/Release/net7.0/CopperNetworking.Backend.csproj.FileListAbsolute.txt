@@ -1,0 +1,15 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\bin\Release\net7.0\CopperNetworking.Backend.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\bin\Release\net7.0\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\bin\Release\net7.0\CopperNetworking.Backend.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\bin\Release\net7.0\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\bin\Release\net7.0\CopperNetworking.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.csproj.AssemblyReference.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.AssemblyInfoInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.AssemblyInfo.cs
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.csproj.CoreCompileInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.csproj.CopyComplete
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\refint\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\CopperNetworking.Backend.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend\obj\Release\net7.0\ref\CopperNetworking.Backend.dll

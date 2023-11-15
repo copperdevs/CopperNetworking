@@ -1,0 +1,11 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\bin\Release\net7.0\CopperNetworking.Common.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\bin\Release\net7.0\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\bin\Release\net7.0\CopperNetworking.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\CopperNetworking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\CopperNetworking.Common.AssemblyInfoInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\CopperNetworking.Common.AssemblyInfo.cs
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\CopperNetworking.Common.csproj.CoreCompileInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\refint\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\CopperNetworking.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Common\obj\Release\net7.0\ref\CopperNetworking.Common.dll

@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CopperNetworking/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CopperNetworking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopperNetworking.dll": {}
+        }
+      },
+      "CopperNetworking.Backend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CopperNetworking.Backend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopperNetworking.Backend.dll": {}
+        }
+      },
+      "CopperNetworking.Backend.Telepathy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CopperNetworking.Backend.Telepathy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopperNetworking.Backend.Telepathy.dll": {}
+        }
+      },
+      "CopperNetworking.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CopperNetworking.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopperNetworking.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopperNetworking/1.0.0": {
+      "type": "project",
+      "path": "../CopperNetworking/CopperNetworking.csproj",
+      "msbuildProject": "../CopperNetworking/CopperNetworking.csproj"
+    },
+    "CopperNetworking.Backend/1.0.0": {
+      "type": "project",
+      "path": "../CopperNetworking.Backend/CopperNetworking.Backend.csproj",
+      "msbuildProject": "../CopperNetworking.Backend/CopperNetworking.Backend.csproj"
+    },
+    "CopperNetworking.Backend.Telepathy/1.0.0": {
+      "type": "project",
+      "path": "../CopperNetworking.Backend.Telepathy/CopperNetworking.Backend.Telepathy.csproj",
+      "msbuildProject": "../CopperNetworking.Backend.Telepathy/CopperNetworking.Backend.Telepathy.csproj"
+    },
+    "CopperNetworking.Common/1.0.0": {
+      "type": "project",
+      "path": "../CopperNetworking.Common/CopperNetworking.Common.csproj",
+      "msbuildProject": "../CopperNetworking.Common/CopperNetworking.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CopperNetworking >= 1.0.0",
+      "CopperNetworking.Backend.Telepathy >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\715263\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperChat.Api\\CopperChat.Api.csproj",
+      "projectName": "CopperChat.Api",
+      "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperChat.Api\\CopperChat.Api.csproj",
+      "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperChat.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj": {
+              "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj"
+            },
+            "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj": {
+              "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

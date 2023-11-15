@@ -1,0 +1,17 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Backend.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\bin\Release\net7.0\win-x86\CopperNetworking.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.csproj.AssemblyReference.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.AssemblyInfoInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.AssemblyInfo.cs
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.csproj.CoreCompileInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.csproj.CopyComplete
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\refint\CopperNetworking.Backend.Telepathy.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\CopperNetworking.Backend.Telepathy.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Telepathy\obj\Release\net7.0\win-x86\ref\CopperNetworking.Backend.Telepathy.dll

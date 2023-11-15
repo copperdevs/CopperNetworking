@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Facepunch.Steamworks" Version="2.3.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CopperNetworking.Backend.Steamworks\CopperNetworking.Backend.Steamworks.csproj" />
+      <ProjectReference Include="..\CopperNetworking.Common\CopperNetworking.Common.csproj" />
+      <ProjectReference Include="..\CopperNetworking\CopperNetworking.csproj" />
+    </ItemGroup>
+
+</Project>

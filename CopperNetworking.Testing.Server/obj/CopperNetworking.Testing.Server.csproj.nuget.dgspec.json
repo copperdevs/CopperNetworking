@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Testing.Server\\CopperNetworking.Testing.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj",
+        "projectName": "CopperNetworking.Backend.Telepathy",
+        "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj",
+        "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj"
+              },
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj",
+        "projectName": "CopperNetworking.Backend",
+        "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj",
+        "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj",
+        "projectName": "CopperNetworking.Common",
+        "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj",
+        "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Testing.Server\\CopperNetworking.Testing.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Testing.Server\\CopperNetworking.Testing.Server.csproj",
+        "projectName": "CopperNetworking.Testing.Server",
+        "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Testing.Server\\CopperNetworking.Testing.Server.csproj",
+        "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Testing.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend.Telepathy\\CopperNetworking.Backend.Telepathy.csproj"
+              },
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj",
+        "projectName": "CopperNetworking",
+        "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\CopperNetworking.csproj",
+        "packagesPath": "C:\\Users\\715263\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\715263\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Backend\\CopperNetworking.Backend.csproj"
+              },
+              "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj": {
+                "projectPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Common\\CopperNetworking.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Software\\Dotnet\\dotnet-sdk-7.0.400-win-x64\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

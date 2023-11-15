@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CopperNetworking.Testing.Server/1.0.0": {
+        "dependencies": {
+          "CopperNetworking": "1.0.0",
+          "CopperNetworking.Backend.Telepathy": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Testing.Server.dll": {}
+        }
+      },
+      "CopperNetworking/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.dll": {}
+        }
+      },
+      "CopperNetworking.Backend/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Backend.dll": {}
+        }
+      },
+      "CopperNetworking.Backend.Telepathy/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Backend.Telepathy.dll": {}
+        }
+      },
+      "CopperNetworking.Common/1.0.0": {
+        "runtime": {
+          "CopperNetworking.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopperNetworking.Testing.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Backend.Telepathy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Backend.Telepathy.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Backend.Telepathy.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Backend.Telepathy.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Backend.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\.builds\CopperNetworking.Common.pdb

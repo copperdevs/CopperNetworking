@@ -1,0 +1,7 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.Backend.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking\bin\Release\net7.0\win-x86\publish\CopperNetworking.Common.pdb

@@ -1,0 +1,17 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Backend.Sockets.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Backend.Sockets.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Backend.Sockets.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Backend.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Common.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Backend.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\bin\Debug\net7.0\CopperNetworking.Common.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.csproj.AssemblyReference.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.AssemblyInfoInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.AssemblyInfo.cs
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.csproj.CoreCompileInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.csproj.CopyComplete
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\refint\CopperNetworking.Backend.Sockets.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\CopperNetworking.Backend.Sockets.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\ChatApp.Server\CopperNetworking.Backend.Sockets\obj\Debug\net7.0\ref\CopperNetworking.Backend.Sockets.dll

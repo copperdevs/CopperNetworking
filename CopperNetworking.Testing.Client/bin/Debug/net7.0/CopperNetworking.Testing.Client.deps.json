@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CopperNetworking.Testing.Client/1.0.0": {
+        "dependencies": {
+          "CopperNetworking": "1.0.0",
+          "CopperNetworking.Backend.Steamworks": "1.0.0",
+          "CopperNetworking.Backend.Telepathy": "1.0.0",
+          "CopperNetworking.Testing.Server": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Testing.Client.dll": {}
+        }
+      },
+      "Facepunch.Steamworks/2.3.3": {
+        "runtime": {
+          "lib/netstandard2.0/Facepunch.Steamworks.Win64.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CopperNetworking/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.dll": {}
+        }
+      },
+      "CopperNetworking.Backend/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Backend.dll": {}
+        }
+      },
+      "CopperNetworking.Backend.Steamworks/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "Facepunch.Steamworks": "2.3.3"
+        },
+        "runtime": {
+          "CopperNetworking.Backend.Steamworks.dll": {}
+        }
+      },
+      "CopperNetworking.Backend.Telepathy/1.0.0": {
+        "dependencies": {
+          "CopperNetworking.Backend": "1.0.0",
+          "CopperNetworking.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Backend.Telepathy.dll": {}
+        }
+      },
+      "CopperNetworking.Common/1.0.0": {
+        "runtime": {
+          "CopperNetworking.Common.dll": {}
+        }
+      },
+      "CopperNetworking.Testing.Server/1.0.0": {
+        "dependencies": {
+          "CopperNetworking": "1.0.0",
+          "CopperNetworking.Backend.Telepathy": "1.0.0"
+        },
+        "runtime": {
+          "CopperNetworking.Testing.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopperNetworking.Testing.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facepunch.Steamworks/2.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7nUjWX/uy6JbDX7Q3n8ij7vrpWjTM0S8hXO24R3ZwQ0QgY0sXVlxzh3unmYoLvKGi31rzDHqGX68I169hnHNxQ==",
+      "path": "facepunch.steamworks/2.3.3",
+      "hashPath": "facepunch.steamworks.2.3.3.nupkg.sha512"
+    },
+    "CopperNetworking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Backend.Steamworks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Backend.Telepathy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopperNetworking.Testing.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

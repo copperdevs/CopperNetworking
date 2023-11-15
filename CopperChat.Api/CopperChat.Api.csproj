@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\CopperNetworking.Backend.Telepathy\CopperNetworking.Backend.Telepathy.csproj" />
+      <ProjectReference Include="..\CopperNetworking\CopperNetworking.csproj" />
+    </ItemGroup>
+
+</Project>

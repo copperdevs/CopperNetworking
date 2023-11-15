@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperChat.Api", "CopperChat.Api\CopperChat.Api.csproj", "{2FB061E9-B77E-4AA4-892C-D9EED8370671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking", "CopperNetworking\CopperNetworking.csproj", "{60DC9CD1-3CB8-4810-9B0D-78707B20955E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperChat.Client", "CopperChat.Client\CopperChat.Client.csproj", "{3E6DCBB6-DFB9-473A-88FE-6E2CDA3470CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperChat.Server", "CopperChat.Server\CopperChat.Server.csproj", "{05E08043-AEA7-4731-96BE-D67EC6243056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Testing.Client", "CopperNetworking.Testing.Client\CopperNetworking.Testing.Client.csproj", "{02B438F5-356A-4626-B199-9F3A09166B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Testing.Server", "CopperNetworking.Testing.Server\CopperNetworking.Testing.Server.csproj", "{BB2AD8D9-1210-4EB8-A2A9-5437667BEA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Common", "CopperNetworking.Common\CopperNetworking.Common.csproj", "{88E5AF12-500A-46A8-A600-6C530A7ECF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Backend.Telepathy", "CopperNetworking.Backend.Telepathy\CopperNetworking.Backend.Telepathy.csproj", "{5D8EE6BF-C801-4227-A300-E5E6CA95A9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Backend", "CopperNetworking.Backend\CopperNetworking.Backend.csproj", "{6A8C28DD-6505-4603-82A1-95635B154025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Backend.Sockets", "CopperNetworking.Backend.Sockets\CopperNetworking.Backend.Sockets.csproj", "{3253AAE3-4966-4A06-9AF9-66BF79764901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Backend.Steamworks", "CopperNetworking.Backend.Steamworks\CopperNetworking.Backend.Steamworks.csproj", "{7345850C-34E0-4F32-9AF5-009D4DCB86AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperChat.Common", "CopperChat.Common\CopperChat.Common.csproj", "{7CCC4664-243B-4D03-8D6C-D90893DEE9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperNetworking.Testing.General", "CopperNetworking.Testing.General\CopperNetworking.Testing.General.csproj", "{BDBBCBE3-97C4-4E6F-8D99-E9658D708168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB061E9-B77E-4AA4-892C-D9EED8370671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB061E9-B77E-4AA4-892C-D9EED8370671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB061E9-B77E-4AA4-892C-D9EED8370671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB061E9-B77E-4AA4-892C-D9EED8370671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DC9CD1-3CB8-4810-9B0D-78707B20955E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DC9CD1-3CB8-4810-9B0D-78707B20955E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DC9CD1-3CB8-4810-9B0D-78707B20955E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DC9CD1-3CB8-4810-9B0D-78707B20955E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6DCBB6-DFB9-473A-88FE-6E2CDA3470CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6DCBB6-DFB9-473A-88FE-6E2CDA3470CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6DCBB6-DFB9-473A-88FE-6E2CDA3470CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6DCBB6-DFB9-473A-88FE-6E2CDA3470CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E08043-AEA7-4731-96BE-D67EC6243056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E08043-AEA7-4731-96BE-D67EC6243056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E08043-AEA7-4731-96BE-D67EC6243056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E08043-AEA7-4731-96BE-D67EC6243056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B438F5-356A-4626-B199-9F3A09166B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B438F5-356A-4626-B199-9F3A09166B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B438F5-356A-4626-B199-9F3A09166B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B438F5-356A-4626-B199-9F3A09166B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2AD8D9-1210-4EB8-A2A9-5437667BEA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2AD8D9-1210-4EB8-A2A9-5437667BEA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2AD8D9-1210-4EB8-A2A9-5437667BEA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2AD8D9-1210-4EB8-A2A9-5437667BEA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E5AF12-500A-46A8-A600-6C530A7ECF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E5AF12-500A-46A8-A600-6C530A7ECF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E5AF12-500A-46A8-A600-6C530A7ECF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E5AF12-500A-46A8-A600-6C530A7ECF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8EE6BF-C801-4227-A300-E5E6CA95A9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8EE6BF-C801-4227-A300-E5E6CA95A9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8EE6BF-C801-4227-A300-E5E6CA95A9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8EE6BF-C801-4227-A300-E5E6CA95A9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8C28DD-6505-4603-82A1-95635B154025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8C28DD-6505-4603-82A1-95635B154025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8C28DD-6505-4603-82A1-95635B154025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8C28DD-6505-4603-82A1-95635B154025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3253AAE3-4966-4A06-9AF9-66BF79764901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3253AAE3-4966-4A06-9AF9-66BF79764901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3253AAE3-4966-4A06-9AF9-66BF79764901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3253AAE3-4966-4A06-9AF9-66BF79764901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7345850C-34E0-4F32-9AF5-009D4DCB86AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7345850C-34E0-4F32-9AF5-009D4DCB86AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7345850C-34E0-4F32-9AF5-009D4DCB86AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7345850C-34E0-4F32-9AF5-009D4DCB86AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCC4664-243B-4D03-8D6C-D90893DEE9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCC4664-243B-4D03-8D6C-D90893DEE9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCC4664-243B-4D03-8D6C-D90893DEE9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCC4664-243B-4D03-8D6C-D90893DEE9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBBCBE3-97C4-4E6F-8D99-E9658D708168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBBCBE3-97C4-4E6F-8D99-E9658D708168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBBCBE3-97C4-4E6F-8D99-E9658D708168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBBCBE3-97C4-4E6F-8D99-E9658D708168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

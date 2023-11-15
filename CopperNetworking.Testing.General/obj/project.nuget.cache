@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6xkNojyHjySwOWoD33kqoRXeiypMxMqVJktIxKjK5rfAyp0RHksbcECapxQm7huiUSsvYHk+10A25DKCRz14nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperNetworking\\CopperNetworking.Testing.General\\CopperNetworking.Testing.General.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\715263\\.nuget\\packages\\facepunch.steamworks\\2.3.3\\facepunch.steamworks.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
